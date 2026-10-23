@@ -1,0 +1,20 @@
+﻿hotel_id;nb_de_reservation;nb_clts_diffe
+1;293;228
+2;278;218
+3;228;187
+4;262;217
+5;276;216
+6;198;169
+7;266;209
+8;199;171
+
+
+#### Exercice 6 — La question du jour  #####
+# Qu’est-ce que ce script sait faire que DBeaver ne sait
+# pas faire ?
+
+# Le script sauvegarde directement le résultat dans un fichier CSV sur mesure
+#  (avec les paramètres de séparateur et de décimale adaptés à Excel français), 
+# ce qu'un simple affichage de grille dans DBeaver ne fait pas.
+# Le script Python peut s'exécuter seul de manière autonome et planifiée (tâches récurrentes), 
+# tandis que DBeaver nécessite toujours une intervention humaine et manuelle pour lancer une requête.
